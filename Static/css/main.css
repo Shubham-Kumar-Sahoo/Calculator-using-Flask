@@ -1,0 +1,27 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#operation{
+    width: 20%;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.form {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.Calculate{
+    margin: 0 auto;
+}
+
+#content {
+    width: 70%;
+}
