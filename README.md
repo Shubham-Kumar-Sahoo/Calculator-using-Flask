@@ -1,5 +1,5 @@
 # Calculator-using-Flask
-In this project we have created an API using Python Flask. In the homepage we perform the operation and the API extract the result of the operation and display it in the results webpage 
+In this project I am using Python Flask to create an API. In the homepage we perform the operation and the API extract the result of the operation and display it in the results webpage. 
 
 To install the required python libraries, execute the following command in the terminal :-  
 -pip install -r requirments.txt
