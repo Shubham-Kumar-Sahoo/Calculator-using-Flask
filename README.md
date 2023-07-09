@@ -3,6 +3,7 @@ In this project I am using Python Flask to create an API. In the homepage we per
 
 ## Requirements
 
+To install the required python libraries, execute the following command in the terminal :-   
 -pip install -r requirments.txt
 
 ## To Run
