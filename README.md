@@ -6,6 +6,6 @@ To install the required python libraries, execute the following command in the t
 
 To run the program, follow the steps :-
 
-Open app.py and execute it. Now the server is active
-Now open localhost server ( http://127.0.0.1:5000 ) on the browser
-Now Search for Product and see its review
+1. Open app.py and execute it. Now the server is active
+2. Now open localhost server ( http://127.0.0.1:5000 ) on the browser
+3. Now write the operation and calculate it
